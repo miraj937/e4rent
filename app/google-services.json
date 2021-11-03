@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "620962415024",
+    "project_id": "rentalapp-14968",
+    "storage_bucket": "rentalapp-14968.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620962415024:android:40c32f970c81a03b14d675",
+        "android_client_info": {
+          "package_name": "com.gisha.e4rent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620962415024-oes8n4omb62a7ouh7velq76cs9hk8m5h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gisha.e4rent",
+            "certificate_hash": "a53e6d86d8788ad8b64246122d9ae7f306367df3"
+          }
+        },
+        {
+          "client_id": "620962415024-k9m3nab66bg5f4cmukqbod27fu60317i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIcuSdiidX3L6I-lHqpsQqVeF8hf7JKL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620962415024-k9m3nab66bg5f4cmukqbod27fu60317i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
